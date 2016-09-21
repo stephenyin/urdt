@@ -1,2 +1,3 @@
 # urdt
-Universal reliable data transmit module
+Universal reliable data transmit module.
+NOT finished yet!!
